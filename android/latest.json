@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://coldplay-now.github.io/notodo-pages/android/notodo-0.1.1.apk",
-  "notes": "v0.1.1：凭证标题放大、公章移到右下角;修复深色模式显示。"
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://coldplay-now.github.io/notodo-pages/android/notodo-0.1.2.apk",
+  "notes": "v0.1.2：凭证/抽屉/分享均显示「今天不 X」原句;标题与公章细节优化。"
 }
