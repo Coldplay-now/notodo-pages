@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "apkUrl": "https://coldplay-now.github.io/notodo-pages/android/notodo-0.1.5.apk",
-  "notes": "v0.1.5：去掉海报背景多余水印(保边框);回看页丁达尔柔光一闪而过、抽屉卡片柔光扫过;开屏标语行距优化。"
+  "versionCode": 7,
+  "versionName": "0.1.6",
+  "apkUrl": "https://xtxt.top/uploads/notodo-vc7-vn0-1-6-1780697694814.apk",
+  "notes": "v0.1.6：检查更新与下载迁移到 xtxt 项目页(xtxt.top/projects/notodo);技术支持/隐私入口同步指向 xtxt。点「前往下载」即可获取新版。"
 }
