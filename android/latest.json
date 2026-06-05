@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://coldplay-now.github.io/notodo-pages/android/notodo-0.1.4.apk",
-  "notes": "v0.1.4：回看页丁达尔光影、抽屉卡片随机柔光扫过;去掉海报背景多余水印;有效期/副作用对齐优化;底栏滚动自动隐藏。"
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://coldplay-now.github.io/notodo-pages/android/notodo-0.1.5.apk",
+  "notes": "v0.1.5：去掉海报背景多余水印(保边框);回看页丁达尔柔光一闪而过、抽屉卡片柔光扫过;开屏标语行距优化。"
 }
